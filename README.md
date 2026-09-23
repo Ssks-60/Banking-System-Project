@@ -3,5 +3,5 @@ A simple Python-based Banking System for managing accounts and basic banking tra
 #Features
 -Create a new bank account
 -Deposit and withdraw funds
--Check Blanace
+-Check Balance
 -View transaction details
